@@ -32,6 +32,7 @@ This dataset contains data from two different hotels in Portugal. It contains 11
 9. What is the booking curve for each hotel type?
 ![Resort_Hotel_Booking_Curve_2016](https://user-images.githubusercontent.com/71391244/132026782-676aa8e7-5e80-4528-855d-214dbd88f5ce.jpg)
 ![City_Hotel_Booking_Curve_2016](https://user-images.githubusercontent.com/71391244/132026789-5ea2b72f-2e40-4515-a114-b3914096e19b.jpg)
+The gold vertical line extending from the x-axis on each graph marks the median.
 For the Resort Hotel, 96.33% of all bookings are made on, or within, 90.0 days to arrival. For the City Hotel, 84.92% of all bookings are made on, or within, 90.0 days to arrival
 
 11. What is the probability of a reservation being cancelled?
