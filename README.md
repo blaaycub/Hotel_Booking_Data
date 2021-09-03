@@ -21,13 +21,15 @@ This dataset contains data from two different hotels in Portugal. It contains 11
 
 3. Are certain time frames busier? e.g. seasonality
 ![2016_Daily_Arrivals](https://user-images.githubusercontent.com/71391244/132026405-03771f35-0e0b-4e28-819d-f0f12be9cbd4.jpg)
+Holiday timeframes are highlighted in orange.
 
 4. How does the ADR vary in regards to seasonality?
 ![2016_Daily_Rates](https://user-images.githubusercontent.com/71391244/132026528-aa0d8642-3851-4bc9-b50f-952706275292.jpg)
+Holiday timeframes are highlighted in orange.
 
 5. What is the length of stay frequency?
 ![Stay_Duration_Seasonality](https://user-images.githubusercontent.com/71391244/132027934-99000c7b-c20f-431d-832b-1f12810dd760.png)
-
+Holiday timeframes are highlighted in orange.
 
 9. What is the booking curve for each hotel type?
 ![Resort_Hotel_Booking_Curve_2016](https://user-images.githubusercontent.com/71391244/132026782-676aa8e7-5e80-4528-855d-214dbd88f5ce.jpg)
